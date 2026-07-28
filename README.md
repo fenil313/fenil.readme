@@ -1,187 +1,51 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,25:1E40AF,50:3B82F6,75:8B5CF6,100:06B6D4&text=👋%20Hey,%20I'm%20YOUR_NAME&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Python%20|%20Django%20|%20React%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,25:1E40AF,50:3B82F6,75:8B5CF6,100:06B6D4&text=👋%20Hey,%20I'm%20Fenil&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Python%20|%20Django%20|%20React%20Developer&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=900&color=38BDF8&lines=Python+Developer;Django+Backend+Developer;React+Developer;REST+API+Developer;Always+Learning+New+Things+🚀"/>
 
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css"/>
-
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
 </p>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 ```python
 class Developer:
 
     def __init__(self):
-
-        self.name = "YOUR_NAME"
-
+        self.name = "Fenil"
+        self.username = "fenil313"
         self.role = "Python Django Full Stack Developer"
 
         self.frontend = [
-            "HTML5",
-            "CSS3",
-            "Bootstrap",
-            "Tailwind CSS",
-            "JavaScript",
-            "React"
+            "HTML5", "CSS3", "JavaScript", 
+            "React", "Tailwind CSS", "Bootstrap"
         ]
 
         self.backend = [
-            "Python",
-            "Django",
-            "Django REST Framework"
+            "Python", "Django", "Django REST Framework"
         ]
 
         self.database = [
-            "PostgreSQL",
-            "MySQL",
-            "MongoDB",
-            "SQLite"
+            "PostgreSQL", "MySQL", "MongoDB", "SQLite"
         ]
 
         self.tools = [
-            "Git",
-            "GitHub",
-            "Linux",
-            "Docker",
-            "VS Code",
-            "Postman"
+            "Git", "GitHub", "Linux", "Docker", "VS Code", "Postman"
         ]
 
         self.learning = [
-            "Redis",
-            "Celery",
-            "AWS",
-            "CI/CD",
-            "Microservices"
+            "Redis", "Celery", "AWS", "CI/CD", "Microservices"
         ]
 
     def __str__(self):
         return "Building scalable web applications 🚀"
-```
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,python,django,postgres,mysql,mongodb,sqlite,docker,linux,git,github,vscode,postman,aws&perline=10"/>
-
-</p>
-
----
-
-# 🚀 Current Status
-
-```text
-███████████████████████████████  Python
-
-████████████████████████████    Django
-
-██████████████████████████      React
-
-████████████████████████        JavaScript
-
-██████████████████████          Tailwind CSS
-
-████████████████████            Bootstrap
-
-██████████████████              Docker
-
-████████████████                AWS
-```
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| 🚀 Project | 💻 Stack |
-|------------|----------|
-| 🛒 Django Ecommerce | Django • DRF • PostgreSQL |
-| 🍔 Food Delivery App | React • Django • JWT |
-| 📊 Admin Dashboard | Bootstrap • Django |
-| 💬 Chat App | Django Channels |
-| 🌐 Portfolio Website | React + Tailwind CSS |
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:0F172A,25:2563EB,50:7C3AED,75:06B6D4,100:22D3EE"/>
-
-</div>
