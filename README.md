@@ -1,70 +1,87 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20👋,%20I'm%20Your%20Name&fontAlignY=40&desc=Python%20|%20Django%20|%20Backend%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Fenil%20Patel&fontAlign=50&fontAlignY=38&color=0:0f172a,20:1e3a8a,50:2563eb,80:7c3aed,100:06b6d4&fontColor=ffffff&fontSize=58&desc=Python%20Developer%20|%20Django%20Backend%20Engineer%20|%20React%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Backend+Developer;REST+API+Developer;PostgreSQL;Open+Source+Enthusiast;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=🐍+Python+Developer;🚀+Django+Backend+Engineer;⚛+React+Developer;💻+Full+Stack+Developer;🔥+Open+Source+Learner;☕+Code.+Build.+Repeat."/>
 
-<p>
-<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django"/>
-<img src="https://img.shields.io/badge/REST-API-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ⚡ About Me
+# 💫 About Me
 
 ```python
-class BackendDeveloper:
-
-    name = "Your Name"
+class FenilPatel():
 
     role = "Python Django Backend Developer"
 
-    location = "India"
-
-    stack = [
-        "Python",
-        "Django",
-        "Django REST Framework",
-        "PostgreSQL",
-        "Docker",
-        "Linux",
+    frontend = [
+        "HTML5",
+        "CSS3",
+        "Bootstrap",
+        "Tailwind CSS",
+        "JavaScript",
+        "React.js"
     ]
 
-    currently_learning = [
+    backend = [
+        "Python",
+        "Django",
+        "Django REST Framework"
+    ]
+
+    database = [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "SQLite"
+    ]
+
+    devops = [
+        "Docker",
+        "Linux",
+        "Git",
+        "GitHub"
+    ]
+
+    learning = [
         "Redis",
         "Celery",
         "AWS",
         "CI/CD",
-        "Kubernetes"
+        "Microservices"
     ]
 
-    motto = "Write Clean Code. Build Scalable APIs."
+    motto = "Build Modern Scalable Applications 🚀"
 ```
 
 ---
 
-# 🚀 Tech Stack
+# ⚙ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,mongodb,redis,docker,linux,git,github,vscode,postman,aws,nginx"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,python,django,postgres,mysql,mongodb,sqlite,docker,git,github,linux,vscode,postman&perline=6"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Dashboard
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -80,58 +97,92 @@ class BackendDeveloper:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-# 🧠 Backend Expertise
+# 🚀 Current Focus
 
-| 💻 Skill | ⭐ Level |
-|----------|----------|
-| Python | ██████████ |
-| Django | █████████ |
-| REST API | █████████ |
-| PostgreSQL | ████████ |
-| Docker | ███████ |
-| Linux | ███████ |
+```text
+█████████████████████░░░░░░ 80%
+
+🐍 Python
+
+████████████████████░░░░░░░ 75%
+
+🚀 Django
+
+███████████████████░░░░░░░░ 70%
+
+⚛ React
+
+█████████████████░░░░░░░░░░ 65%
+
+🐳 Docker
+
+██████████████░░░░░░░░░░░░░ 55%
+
+☁ AWS
+```
+
+---
+
+# 💼 Skills
+
+| Frontend | Backend | Database | Tools |
+|-----------|----------|-----------|-------|
+| HTML5 | Python | PostgreSQL | Git |
+| CSS3 | Django | MySQL | GitHub |
+| Bootstrap | Django REST | MongoDB | Docker |
+| Tailwind CSS | REST API | SQLite | Linux |
+| JavaScript | JWT Auth | Redis | VS Code |
+| React.js | Authentication | ORM | Postman |
 
 ---
 
 # 🚀 Featured Projects
 
-<div align="center">
-
-| Project | Description |
-|---------|-------------|
-| 🛒 Django Ecommerce | Authentication • Orders • Payments |
-| 🍔 Food Delivery API | DRF + JWT + PostgreSQL |
-| 📚 Blog CMS | Django Admin + CKEditor |
-| 📊 Admin Dashboard | AdminLTE + Django |
-| ☁️ Deployment | Docker + Nginx + Gunicorn |
-
-</div>
+| Project | Tech Stack |
+|----------|------------|
+| 🛒 Django Ecommerce | Django • DRF • PostgreSQL |
+| 🍔 Food Delivery | React • Django • JWT |
+| 📊 Admin Dashboard | Bootstrap • Django |
+| 📝 Blog CMS | Django • CKEditor |
+| 💬 Chat App | Django Channels • WebSocket |
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=devto"/>
+</a>
 
 </p>
 
@@ -139,6 +190,6 @@ class BackendDeveloper:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:06b6d4,25:2563eb,50:7c3aed,75:1e3a8a,100:0f172a"/>
 
 </div>
