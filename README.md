@@ -10,7 +10,7 @@
 
   <br/><br/>
 
-  <!-- Interactive Tech Badges -->
+  <!-- Interactive Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -52,7 +52,7 @@ class Developer:
             "frontend": ["React", "JavaScript", "Tailwind CSS", "Bootstrap"],
             "backend": ["Python", "Django", "Django REST Framework"],
             "databases": ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
-            "devops": ["Docker", "Linux", "Git", "Postman", "AWS"]
+            "devops": ["Docker", "Linux", "Git", "Postman", "AWS"],
         }
 
     def current_status(self):
