@@ -1,59 +1,30 @@
-<div align="center">
+# 💫 About Me
+🚀 **Full-Stack Developer |  Python fullstack webdevloper Enthusiast**
+Currently building scalable **Full-Stack applications** using **python full stack *, **Next.js**, and modern UI/UX principles.
+🤝 Open to collaborating on **innovative web applications**, **SaaS products**, **AI-powered solutions**, and impactful open-source projects.
+🌱 Continuously learning and exploring **Next.js**, **TypeScript**, **AI integrations**, **Cloud Deployment**, and modern development workflows.
+I enjoy transforming creative ideas into fast, interactive, and user-centric digital experiences that solve real-world problems.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mannpatel1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mannpatel5577@gmail.com) 
 
-  <!-- Dynamic Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,30:1E3A8A,70:3B82F6,100:06B6D4&text=FENIL%20PATEL&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Python%20%7C%20Django%20%7C%20React%20Developer&descAlignY=62"/>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mp0408&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mp0408&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mp0408&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <!-- Typing Animation -->
-  <a href="https://github.com/fenil313">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&center=true&vCenter=true&width=800&color=38BDF8&lines=Python+%2B+Django+Backend+Developer;React.js+Frontend+Engineer;RESTful+API+%26+Database+Architect;Always+Coding+%26+Learning+New+Tech+🚀"/>
-  </a>
+<!--
+**M5Patel/M5Patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-  <br/><br/>
+Here are some ideas to get you started:
 
-  <!-- Interactive Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  </p>
-
-</div>
-
----
-
-## ⚡ About Me
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="35%" valign="middle">
-        <br/>
-        <a href="https://github.com/fenil313">
-          <img src="https://github.com/fenil313.png" width="160px" style="border-radius: 50%; border: 3px solid #38BDF8;" alt="Fenil's Avatar"/>
-        </a>
-        <br/><br/>
-        <h3><b>Fenil Patel</b></h3>
-        <p>👨‍💻 <b>Python & Full-Stack Engineer</b></p>
-        <p>⚡ Building high-performance web apps</p>
-      </td>
-      <td width="65%" valign="top">
-
-```python
-class Developer:
-
-    def __init__(self):
-        self.name = "Fenil"
-        self.github = "fenil313"
-        self.role = "Full Stack Python Django Developer"
-
-        self.tech_stack = {
-            "frontend": ["React", "JavaScript", "Tailwind CSS", "Bootstrap"],
-            "backend": ["Python", "Django", "Django REST Framework"],
-            "databases": ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
-            "devops": ["Docker", "Linux", "Git", "Postman", "AWS"],
-        }
-
-    def current_status(self):
-        return "Constantly building projects and scaling applications! 🚀"
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
